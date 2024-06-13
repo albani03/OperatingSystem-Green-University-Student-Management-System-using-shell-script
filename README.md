@@ -64,7 +64,7 @@ Run the script
 
  If you successfully run those command then you definitely successful to run the program.
 
-NOTE: Admin default password was **pan78m**
+NOTE: Admin default password was **emad**
 
 ## Features
 
