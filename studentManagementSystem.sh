@@ -12,7 +12,6 @@ function head_banner() {
     echo "*                             *"
     echo "*******************************"
    
-    echo "Developed by (linkedin.com/in/pankaj-mahanto78/) or '@pan78m' [All rights reserved]"
 }
 
 function return_function_value() {
